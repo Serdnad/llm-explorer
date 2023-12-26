@@ -1,0 +1,7 @@
+IDEAS:
+
+_ Allow chats to be reordered and moved into folders
+_ Allow for exporting a transcript (maybe put a watermark in somehow)
+_ Neat little placeholder for empty new chats
+_ Allow chats to be renamed
+_ Use proper UUIDs. Mainly for future proofing for future features
